@@ -1,4 +1,4 @@
-Hi 👋 My name is Jebin P
+My name is Jebin P
 ========================
 
 Machine Learning
@@ -6,9 +6,9 @@ Machine Learning
 
 Third-year CSE student with foundational knowledge in programming and Machine Learning, eager to apply academic skills and gain practical experience in a dynamic IT field. Seeking internship opportunities to contribute and grow professionally.
 
-* 🌍  I'm based in Chennai, TN
+* 🌍  I'm based in Chennai
 * ✉️  You can contact me at [Jebin10122004@gmail.com](mailto:Jebin10122004@gmail.com)
-* 🧠  I'm learning Third-Year in St. Joseph's College of Engineering
+* 🧠  I'm learning Third-Year CSE Student in St. Joseph's College of Engineering
 * 🤝  I'm open to collaborating on projects based on Software Development, Automation Projects, Product Development and AI
 
 ### Skills
